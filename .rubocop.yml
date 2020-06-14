@@ -1,0 +1,10 @@
+require: rubocop-rspec
+
+Metrics/BlockLength:
+  Enabled: false
+
+Metrics/MethodLength:
+  Max: 140
+
+Naming/MethodParameterName:
+  Enabled: false
